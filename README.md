@@ -1,7 +1,7 @@
 # LAB_6
 Kalkulator
 
-# Projekt Kalkulatora
+# Projekt Kalkulator
 
 To jest prosty projekt kalkulatora w Pythonie.
 
@@ -14,14 +14,14 @@ To jest prosty projekt kalkulatora w Pythonie.
 
 ## Instrukcje
 
-1. Sklonuj repozytorium na swój lokalny komputer.
-2. Uruchom kalkulator.py w Pythonie.
+1. Klonowanie  repozytorium na swój lokalny komputer.
+2. Uruchamianie  kalkulator.py w Pythonie.
 
 ## Raport
 
-- **Krok 1:** Utworzyłem konto na GitHubie i stworzyłem nowe repozytorium.
-- **Krok 2:** Sklonowałem repozytorium na mój komputer lokalny.
-- **Krok 3:** Stworzyłem plik kalkulator.py i dodałem w nim prosty kalkulator w Pythonie.
+- **Krok 1:** Stworzyłem  konto na GitHubie i stworzyłem nowe repozytorium.
+- **Krok 2:** Sklonowałem repozytorium na komputer
+- **Krok 3:** Stworzyłem plik kalkulator.py, otworzyłem edytor nano i  dodałem w nim prosty kalkulator w Pythonie.
 - **Krok 4:** Wykonałem commit i push zmian do repozytorium.
-- **Krok 5:** Udokumentowałem wszystkie kroki i opisałem proces oraz napotkane wyzwania.
+- **Krok 5:** Udokumentowałem wszystkie kroki i opisałem proces
 
